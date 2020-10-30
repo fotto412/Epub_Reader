@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestWebView</string>
+    <string name="sample_title">Sample Title</string>
+    <string name="search">Search</string>
+</resources>
